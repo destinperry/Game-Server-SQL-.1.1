@@ -1,2 +1,2 @@
 # gameServerSQL
-# Test and database for working with game server
+# Test and database for working with game server in Java
